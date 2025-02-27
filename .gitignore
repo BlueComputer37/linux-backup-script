@@ -1,0 +1,2 @@
+echo "backups/" >> .gitignore
+echo "important-files/" >> .gitignore
