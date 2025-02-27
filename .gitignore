@@ -1,2 +1,2 @@
-echo "backups/" >> .gitignore
-echo "important-files/" >> .gitignore
+backups/
+important-files/
